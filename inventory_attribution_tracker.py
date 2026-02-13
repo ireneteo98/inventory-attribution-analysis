@@ -423,7 +423,7 @@ def main():
 
 
     fig.update_layout(
-        title="Project 3 — Inventory Attribution Dashboard (Weekly)",
+        title="Inventory Attribution Dashboard (Weekly)",
         height=1100,
         hovermode="x unified",
         hoverlabel=dict(namelength=-1)
@@ -531,3 +531,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
